@@ -6,7 +6,7 @@
 
 ## Guess what, I'm a Developer 😂!!
 
-- 🌱 I’m currently learning everything 😂
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about DevOps
 
