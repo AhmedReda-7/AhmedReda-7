@@ -1,6 +1,5 @@
 # Hi there, It's AHMED👋 
 
-[![Website](https://img.shields.io/website?label=Devinity.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ahmedredadev.wuiltsite.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AhmedReda2850?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ahmedreda2850)
 
 
