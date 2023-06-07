@@ -1,6 +1,6 @@
 # Hi there, It's AHMED👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AhmedReda2850?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Radaaredo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Radaaredo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Radaaredo)
 
 
 ## Guess what, I'm a Developer 😂!!
