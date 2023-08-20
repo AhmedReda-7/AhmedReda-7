@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Learn more about DevOps
+- 🥅 2024 Goals: Learn more about DevOps
 
 ### Languages and Tools:
 
