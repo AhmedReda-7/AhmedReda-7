@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">I'm Data Engineer specialized in designing and optimizing scalable data pipelines, managing big data solutions, and automating ETL processes on cloud platforms.
-Hands-on experience with tools and technologies such as Informatica PowerCenter, Apache Airflow, PySpark, Kafka, Hadoop, and SQL ,Microsoft SQL Server.
+Hands-on experience with tools and technologies such as Informatica PowerCenter, <s>Apache Airflow, PySpark, Kafka, Hadoop</s>, and SQL ,Microsoft SQL Server.
 Proven ability to work with real-time and batch data and implement data warehousing solutions</h3>
 <h2> Let's connect and explore how I can help you achieve data-driven insights and transformative business outcomes. </h2>
 <br>
