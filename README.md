@@ -39,7 +39,7 @@ Proven ability to work with real-time and batch data and implement data warehous
 
 ## 📩 Connect with me
 <p align="center">
-  <a href="mailto:ahmedreda.forbusiness@gmail.com" title="Gmail">
+  <a href="ahmedreda.forbusiness@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmed-reda-said" title="LinkedIn">
