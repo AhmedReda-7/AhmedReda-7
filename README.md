@@ -14,8 +14,8 @@ Proven ability to work with real-time and batch data and implement data warehous
 
 ## 🎓 EDUCATION
 
-- Bachelor's Degree in Computer Scince and Artificial Intelligence — Helwan University, Egypt   
-
+- Bachelor's Degree in Computer Scince and Artificial Intelligence — Helwan University
+  
 ## 💼 EXPERIENCE
 
 ### Cloud Intern @ NTI
