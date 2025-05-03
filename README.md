@@ -1,7 +1,7 @@
 <h1 align="center">It's Ahmed Reda 👋</h1>
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+David's+Github+!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+David's+Github+!" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Ahmed's+Github+!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Ahmed's+Github+!" alt="Typing SVG" />
   </a>
 </p>
 
