@@ -24,7 +24,7 @@ Proven ability to work with real-time and batch data and implement data warehous
 - Ensuring data quality, integrity, and consistency across workflow stages.
 
 ## 🛠 Skills
-<p align="center">  
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
@@ -33,7 +33,7 @@ Proven ability to work with real-time and batch data and implement data warehous
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+</div>
 
 ## 📚 Certifications
 - Data Engineering Essentials - Coursera (2025)
