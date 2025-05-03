@@ -30,8 +30,6 @@ Proven ability to work with real-time and batch data and implement data warehous
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Informatica-E1251B?style=for-the-badge&logo=informaticadata&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSIS-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
 </div>
 
 ## 📚 Certifications
