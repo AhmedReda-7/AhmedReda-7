@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">I'm Data Engineer specialized in designing, optimizing scalable data pipelines and managing big data solutions.
+<h3 align="center">I'm a Data Engineer specialized in designing, optimizing scalable data pipelines and managing big data solutions.
 Hands-on experience with tools and technologies such as Informatica PowerCenter, <s>Apache Airflow, PySpark, Kafka, Hadoop</s>, and SQL ,Microsoft SQL Server.
 Proven ability to work with real-time and batch data and implement data warehousing solutions</h3>
 <br>
@@ -28,6 +28,10 @@ Proven ability to work with real-time and batch data and implement data warehous
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Informatica-E1251B?style=for-the-badge&logo=informaticadata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSIS-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
 </div>
 
 ## 📚 Certifications
