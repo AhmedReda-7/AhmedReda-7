@@ -22,7 +22,8 @@ Proven ability to work with real-time and batch data and implement data warehous
 - Gaining expertise in Cloud and Virtualization concepts, Hypervisor and VMware.
 - Developing ETL pipelines for data ingestion, transformation, and processing.
 - Ensuring data quality, integrity, and consistency across workflow stages.
-
+<br>
+<br>
 ## 🛠 Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
