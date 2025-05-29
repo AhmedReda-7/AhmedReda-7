@@ -8,9 +8,6 @@
 <h3 align="center">I'm a Data Engineer specialized in designing, optimizing scalable data pipelines and managing big data solutions.
 Hands-on experience with tools and technologies such as Informatica PowerCenter, Power BI, Excel, and SQL ,Microsoft SQL Server.
 Proven ability to work with real-time and batch data and implement data warehousing solutions</h3>
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>
-<br>
 
 ## 🎓 EDUCATION
 
