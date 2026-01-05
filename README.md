@@ -17,14 +17,6 @@
 
 I'm a **Data Engineer** passionate about building scalable data pipelines and designing robust big data solutions. I specialize in transforming raw data into actionable insights through efficient ETL processes, data warehousing, and cloud technologies.
 
-python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Ahmed Reda"
-        self.role = "Data Engineer"
-        self.location = "Egypt"
-        self.education = "BSc in Computer Science & AI"
-
 ## 🛠️ Technical Arsenal
 
 ### **Data Engineering & ETL**
@@ -41,21 +33,17 @@ class DataEngineer:
 ### **Programming & Scripting**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### **Analytics & Visualization**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### **Cloud & DevOps**
-![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **Informatica Suite**
-- PowerCenter
+### **Informatica**
+- Informatica PowerCenter
 - Informatica Developer
 - Cloud Data Integration (CDI)
 - Cloud Data Quality (CDQ)
