@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<h3 align="center">I'm a Data Engineer specialized in designing, optimizing scalable data pipelines and managing big data solutions.
-Hands-on experience with tools and technologies such as Informatica PowerCenter, Power BI, Excel, and SQL ,Microsoft SQL Server.
+<h3 align="center">I'm a Data Engineer specialized in designing scalable data pipelines and managing big data solutions.
+Experienced with tools such as Informatica PowerCenter, Informatica Developer, CDI, CDQ, CDGC, Spark, DBT, Power BI, Excel, Microsoft SQL Server and Oracle.
 Proven ability to work with real-time and batch data and implement data warehousing solutions</h3>
 
 ## 🎓 EDUCATION
@@ -16,9 +16,9 @@ Proven ability to work with real-time and batch data and implement data warehous
 ## 💼 EXPERIENCE
 
 ### Cloud Intern @ NTI
-- Gaining expertise in Cloud and Virtualization concepts, Hypervisor and VMware.
-- Developing ETL pipelines for data ingestion, transformation, and processing.
-- Ensuring data quality, integrity, and consistency across workflow stages.
+• Participated in an internship program focused on Huawei cloud services and products
+• Gained practical experience in virtualization concepts, including training with VMware, Linux Ubuntu
+• Acquired soft skills development including communication, teamwork, problem-solving, time management.
 
 ## 🛠 Skills
 <div align="center">
@@ -30,6 +30,7 @@ Proven ability to work with real-time and batch data and implement data warehous
 </div>
 
 ## 📚 Certifications
+- Cloud Data Governance and Catalog Implementation - CDGC, Informatica University (2025)
 - Data Engineering Essentials - Coursera (2025)
 - Informatica Tutorial: Beginner to Expert Level - Udemy
 - Huawei Certified ICT Associate (Big Data) - Huawei
