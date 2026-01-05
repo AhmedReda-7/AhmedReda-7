@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=876CF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Data+Engineer+%40+EJADA+%F0%9F%9A%80;Informatica+Cloud+Specialist+%E2%98%81%EF%B8%8F;Big+Data+%26+ETL+Architect+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Data+Pipelines+%F0%9F%94%A7;Turning+Raw+Data+Into+Gold+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=876CF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Data+Engineer+%40+EJADA+%F0%9F%9A%80;Informatica+Cloud+Specialist+%E2%98%81%EF%B8%8F;Big+Data+%26+ETL+Developer+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Data+Pipelines+%F0%9F%94%A7;Turning+Raw+Data+Into+Gold+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <!-- Dynamic Badges -->
