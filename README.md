@@ -17,15 +17,15 @@
 
 I'm a **Data Engineer** passionate about building scalable data pipelines and designing robust big data solutions. I specialize in transforming raw data into actionable insights through efficient ETL processes, data warehousing, and cloud technologies.
 
-```python
+python
 class DataEngineer:
     def __init__(self):
         self.name = "Ahmed Reda"
         self.role = "Data Engineer"
         self.location = "Egypt"
         self.education = "BSc in Computer Science & AI"
-    
-    def get_specializations(self):
+        
+      def get_specializations(self):
         return [
             "Data Pipeline Architecture",
             "ETL Development",
@@ -33,9 +33,6 @@ class DataEngineer:
             "Data Warehousing",
             "Real-time & Batch Processing"
         ]
-```
-
----
 
 ## 🛠️ Technical Arsenal
 
