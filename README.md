@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Ahmed Reda
+# 👋 Hello, I'm Ahmed Reda
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=876CF7&center=true&vCenter=true&width=600&lines=Data+Engineer;Big+Data+Enthusiast;ETL+Pipeline+Developer;" alt="Typing SVG" />
@@ -43,22 +43,34 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and de
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **Informatica**
-- Informatica PowerCenter
-- Informatica Developer
-- Cloud Data Integration (CDI)
-- Cloud Data Quality (CDQ)
-- Cloud Data Governance & Catalog (CDGC)
+🔹 Informatica PowerCenter
+🔹 Informatica Developer
+🔹 Cloud Data Integration (CDI)
+🔹 Cloud Data Quality (CDQ)
+🔹 Cloud Data Governance & Catalog (CDGC)
 
 ---
 
 ## 💼 Professional Experience
 
+### **Data Engineer** | EJADA
+
+🔹 Implemented ETL mappings and workflows using Informatica Cloud Data Integration (CDI)
+🔹 Built data quality rule specifications and scorecards to validate and improve data accuracy and consistency
+🔹 Defined and maintained business glossaries, domains, and data asset relationships to enhance data governance
+🔹 Automated data ingestion and transformation processes supporting 3+ batch data workflows
+🔹 Collaborated with data stewards and governance teams to enforce policies, relationships, and CDEs
+
+---
+
+## 💼 Internships
+
 ### **Cloud Intern** | National Telecommunication Institute (NTI)
 
-- 🔹 Hands-on training with **Huawei Cloud** services and infrastructure
-- 🔹 Gained expertise in **virtualization** technologies (VMware, Linux Ubuntu)
-- 🔹 Developed critical soft skills: communication, teamwork, problem-solving, and time management
-- 🔹 Participated in collaborative cloud solution design projects
+🔹 Hands-on training with **Huawei Cloud** services and infrastructure
+🔹 Gained expertise in **virtualization** technologies (VMware, Linux Ubuntu)
+🔹 Developed critical soft skills: communication, teamwork, problem-solving, and time management
+🔹 Participated in collaborative cloud solution design projects
 
 ---
 
@@ -66,7 +78,7 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and de
 
 **Bachelor's Degree in Computer Science & Artificial Intelligence**  
 📍 Helwan University  
-🎯 Focus: Data Engineering, Machine Learning, Big Data Systems
+🎯 Focus: Data Engineering, Data Analysis, Big Data Systems
 
 ---
 
@@ -92,12 +104,12 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and de
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=876CF7&icon_color=876CF7" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=876CF7" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedReda-7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=876CF7&icon_color=876CF7" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedReda-7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=876CF7" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=876CF7&ring=876CF7&fire=876CF7&currStreakLabel=876CF7" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedReda-7&theme=radical&hide_border=true&background=0D1117&stroke=876CF7&ring=876CF7&fire=876CF7&currStreakLabel=876CF7" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -106,8 +118,7 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and de
 
 - Advanced Spark optimization techniques
 - Cloud-native data architectures
-- Real-time streaming with Kafka
-- Modern data stack (dbt, Fivetran, Snowflake)
+- Modern data stack (dbt, Databricks, Spark)
 
 ---
 
@@ -124,14 +135,12 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and de
   
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reda-said)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-876CF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-876CF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/ahmedreda)
 
 ---
 
 ⭐️ *"Data is the new oil, and I'm here to refine it"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=876CF7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedReda-7&color=876CF7&style=for-the-badge)
 
 </div>
