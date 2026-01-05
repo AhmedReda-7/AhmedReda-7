@@ -225,10 +225,10 @@ graph LR
 
 ### **☁️ Cloud Engineering Intern** | National Telecommunication Institute (NTI)
 
-🔹 Completed **60+ hours** of hands-on cloud infrastructure training
-🔹 Deployed and managed **virtual machines** in cloud environments
-🔹 Collaborated on **team projects** designing cloud solutions
-🔹 Gained practical experience with **Linux administration** and networking
+- Completed **60+ hours** of hands-on cloud infrastructure training
+- Deployed and managed **virtual machines** in cloud environments
+- Collaborated on **team projects** designing cloud solutions
+- Gained practical experience with **Linux administration** and networking
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
