@@ -46,16 +46,16 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
 ```typescript
-const ahmed: DataEngineer = {
+const Ahmed: DataEngineer = {
     name: "Ahmed Reda",
     title: "Data Engineer @ EJADA",
     location: "Cairo, Egypt 🇪🇬",
     education: "BSc Computer Science & AI",
     
     expertise: {
-        primary: ["ETL Development", "Data Quality", "Data Governance"],
-        technologies: ["Informatica IICS", "Apache Spark", "SQL Server", "Azure"],
-        specialization: "Enterprise Data Pipeline Architecture"
+        primary: ["ETL Development", "Data Integration", "Data Quality", "Data Governance"],
+        technologies: ["Informatica IICS", "Databricks", "Apache Spark", "SQL Server", "Azure", "DBT"],
+        specialization: "Enterprise DWH Architecture"
     },
     
     currentMission: "Building scalable data solutions that drive business intelligence",
@@ -63,13 +63,11 @@ const ahmed: DataEngineer = {
     achievements: {
         pipelines_automated: 3,
         data_accuracy_improvement: "35%",
-        governed_assets: 100,
+        governed_assets: 20+,
         processing_optimization: "40%"
     },
     
     philosophy: "Data is raw potential. Engineering transforms it into strategic power.",
-    
-    funFact: "I debug pipelines at 3 AM and call it meditation 🧘‍♂️"
 };
 ```
 
