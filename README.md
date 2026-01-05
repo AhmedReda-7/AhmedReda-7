@@ -195,9 +195,9 @@ graph LR
 <td width="50%" valign="top">
 
 **🔧 ETL Development & Automation**
-- ✅ Architected **3+ enterprise-grade ETL pipelines** using Informatica IICS
+- ✅ Architected **3+ ETL pipelines** using Informatica IICS
 - ✅ Reduced data processing time by **40%** through optimization
-- ✅ Implemented automated batch workflows handling **1M+ records daily**
+- ✅ Implemented automated batch workflows handling **1M+ records**
 - ✅ Built reusable transformation components saving **100+ dev hours**
 
 **📊 Data Quality Engineering**
@@ -215,12 +215,6 @@ graph LR
 - ✅ Established data lineage tracking for regulatory compliance
 - ✅ Collaborated with **5+ cross-functional teams** on governance policies
 
-**🚀 Technical Leadership**
-- ✅ Mentored **2 junior engineers** on Informatica best practices
-- ✅ Led code reviews ensuring **95%+ code quality standards**
-- ✅ Documented **20+ technical procedures** and workflows
-- ✅ Participated in architecture design for **2 major projects**
-
 </td>
 </tr>
 </table>
@@ -230,26 +224,6 @@ graph LR
 ---
 
 ### **☁️ Cloud Engineering Intern** | National Telecommunication Institute (NTI)
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="60"/><br>
-<strong>Cloud Services</strong><br>
-<sub>Huawei Cloud Platform Training</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60"/><br>
-<strong>Virtualization</strong><br>
-<sub>VMware & Linux Ubuntu</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/681/681494.png" width="60"/><br>
-<strong>Soft Skills</strong><br>
-<sub>Communication & Teamwork</sub>
-</td>
-</tr>
-</table>
 
 🔹 Completed **60+ hours** of hands-on cloud infrastructure training
 🔹 Deployed and managed **virtual machines** in cloud environments
