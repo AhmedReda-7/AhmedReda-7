@@ -24,15 +24,6 @@ class DataEngineer:
         self.role = "Data Engineer"
         self.location = "Egypt"
         self.education = "BSc in Computer Science & AI"
-        
-      def get_specializations(self):
-        return [
-            "Data Pipeline Architecture",
-            "ETL Development",
-            "Big Data Processing",
-            "Data Warehousing",
-            "Real-time & Batch Processing"
-        ]
 
 ## 🛠️ Technical Arsenal
 
