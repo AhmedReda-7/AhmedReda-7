@@ -71,46 +71,6 @@ const Ahmed: DataEngineer = {
 };
 ```
 
-<div align="center">
-
-### 🎯 **What I Do Best**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="80"/>
-<br><strong>ETL Architecture</strong>
-<br><sub>Building robust data pipelines</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/9850/9850835.png" width="80"/>
-<br><strong>Data Quality</strong>
-<br><sub>Ensuring 99%+ accuracy</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="80"/>
-<br><strong>Data Governance</strong>
-<br><sub>Managing enterprise catalogs</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="80"/>
-<br><strong>Big Data Processing</strong>
-<br><sub>Spark & distributed systems</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRlYzNuNXVwMXVzZWl0d3psZDRtNHRzbWN3aXhqcHVsZ2dscDh5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbZnTftCXVocKzfxR/giphy.gif" width="40"> **Technology Arsenal**
-
-<details open>
-<summary><b>🔥 Click to Explore My Tech Stack</b></summary>
-<br>
-
 ### **🎯 Data Engineering & ETL**
 
 <div align="center">
@@ -121,7 +81,6 @@ const Ahmed: DataEngineer = {
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
@@ -158,9 +117,6 @@ Additional_Tools:
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 </div>
 
@@ -170,9 +126,6 @@ Additional_Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
@@ -181,9 +134,7 @@ Additional_Tools:
 <div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
@@ -192,7 +143,6 @@ Additional_Tools:
 <div align="center">
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -201,14 +151,12 @@ Additional_Tools:
 
 </div>
 
-### **🛠️ Tools & Frameworks**
+### **🛠️ Tools**
 
 <div align="center">
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 </div>
 
@@ -220,8 +168,6 @@ Additional_Tools:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Professional Experience**
 
 ### **🏢 Data Engineer** | <a href="https://www.ejada.com/">EJADA</a>
-**📍 Heliopolis, Cairo** • **📅 Sep 2025 – Present** • **💼 Full-Time**
-
 <div align="center">
 
 ```mermaid
@@ -284,7 +230,6 @@ graph LR
 ---
 
 ### **☁️ Cloud Engineering Intern** | National Telecommunication Institute (NTI)
-**📍 Cairo, Egypt** • **📅 2024** • **📚 Training Program**
 
 <table>
 <tr>
@@ -306,10 +251,10 @@ graph LR
 </tr>
 </table>
 
-- 🔹 Completed **60+ hours** of hands-on cloud infrastructure training
-- 🔹 Deployed and managed **virtual machines** in cloud environments
-- 🔹 Collaborated on **team projects** designing cloud solutions
-- 🔹 Gained practical experience with **Linux administration** and networking
+🔹 Completed **60+ hours** of hands-on cloud infrastructure training
+🔹 Deployed and managed **virtual machines** in cloud environments
+🔹 Collaborated on **team projects** designing cloud solutions
+🔹 Gained practical experience with **Linux administration** and networking
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -321,7 +266,7 @@ graph LR
 ### 🎓 **Bachelor of Science in Computer Science & Artificial Intelligence**
 
 **🏛️ Helwan University** | Cairo, Egypt  
-**📅 Graduation Year:** 2024 | **🏆 Focus:** Data Engineering, Data Analytics, Big Data Systems
+**📅 Graduation Year:** 2023 | **🏆 Focus:** Data Engineering, Data Analytics, Big Data Systems
 
 </div>
 
@@ -330,21 +275,18 @@ graph LR
 <td width="50%" valign="top">
 
 **📚 Core Coursework**
+- Data Engineering
 - Advanced Database Systems
-- Data Structures & Algorithms
-- Machine Learning & AI
 - Big Data Analytics
 - Cloud Computing
-- Software Engineering
 
 </td>
 <td width="50%" valign="top">
 
 **🎯 Key Projects**
 - ETL Pipeline for Student Information System
-- Real-time Data Quality Monitoring Dashboard
-- Predictive Analytics using Spark MLlib
-- Data Warehouse Design for E-commerce
+- Real-time Data Quality Monitoring
+- Data Warehouse Design
 - Automated Data Governance Framework
 
 </td>
