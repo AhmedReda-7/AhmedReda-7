@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Ahmed Reda
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=876CF7&center=true&vCenter=true&width=600&lines=Data+Engineer;Big+Data+Solutions+Architect;ETL+Pipeline+Developer;Cloud+%26+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=876CF7&center=true&vCenter=true&width=600&lines=Data+Engineer;Big+Data+Enthusiast;ETL+Pipeline+Developer;Cloud+%26+Analytics+Interested" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-reda-said)
