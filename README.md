@@ -11,7 +11,7 @@
 <!-- Dynamic Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-876CF7?style=for-the-badge&logo=databricks&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Data%20Engineer%20at%20EJADA-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Role-Data%20Engineer%20at%20EJADA-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
