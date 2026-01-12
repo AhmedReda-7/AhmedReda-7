@@ -188,41 +188,6 @@ graph LR
 
 </div>
 
-#### 🎯 **Key Responsibilities & Achievements**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔧 ETL Development & Automation**
-- ✅ Architected **3+ ETL pipelines** using Informatica IICS
-- ✅ Reduced data processing time by **40%** through optimization
-- ✅ Implemented automated batch workflows handling **1M+ records**
-- ✅ Built reusable transformation components saving **100+ dev hours**
-
-**📊 Data Quality Engineering**
-- ✅ Designed comprehensive quality frameworks with **50+ validation rules**
-- ✅ Improved data accuracy from **84% to 99%+** across systems
-- ✅ Created real-time monitoring dashboards with scorecards
-- ✅ Reduced data anomalies by **65%** through proactive validation
-
-</td>
-<td width="50%" valign="top">
-
-**🏛️ Data Governance & Catalog**
-- ✅ Built enterprise data catalog with **100+ governed assets**
-- ✅ Defined business glossaries covering **15+ data domains**
-- ✅ Established data lineage tracking for regulatory compliance
-- ✅ Collaborated with **5+ cross-functional teams** on governance policies
-
-</td>
-</tr>
-</table>
-
-**🛠️ Technology Stack:** Informatica IICS (CDI, CDQ, CDGC) • MS SQL Server • Oracle • Python • PySpark • Azure • Git
-
----
-
 ### **☁️ Cloud Engineering Intern** | National Telecommunication Institute (NTI)
 
 - Completed **60+ hours** of hands-on cloud infrastructure training
