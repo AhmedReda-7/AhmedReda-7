@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Animated Header = 'Ahmed Reda' -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=280&section=header&text=Ahmed%20Reda&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transforming%20Data%20Into%20Strategic%20Intelligence&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
-<!-- Animated Typing -->
+<!-- Animated Typing = 'Turning Raw Data Into Gold ...'-->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=876CF7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Data+Engineer+%40+EJADA+%F0%9F%9A%80;Informatica+Cloud+Specialist+%E2%98%81%EF%B8%8F;Big+Data+%26+ETL+Developer+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Data+Pipelines+%F0%9F%94%A7;Turning+Raw+Data+Into+Gold+%E2%9C%A8" alt="Typing SVG" />
 </a>
@@ -11,7 +11,7 @@
 <!-- Dynamic Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-876CF7?style=for-the-badge&logo=databricks&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Data%20Engineer%20at%20EJADA-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
