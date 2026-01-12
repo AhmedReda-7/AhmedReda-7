@@ -206,31 +206,3 @@ graph LR
 
 **🏛️ Helwan University** | Cairo, Egypt  
 **📅 Graduation Year:** 2023 | **🏆 Focus:** Data Engineering, Data Analytics, Big Data Systems
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📚 Core Coursework**
-- Data Engineering
-- Advanced Database Systems
-- Big Data Analytics
-- Cloud Computing
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Key Projects**
-- ETL Pipeline for Student Information System
-- Real-time Data Quality Monitoring
-- Data Warehouse Design
-- Automated Data Governance Framework
-
-</td>
-</tr>
-</table>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
